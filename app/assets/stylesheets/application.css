@@ -13,3 +13,41 @@
  *= require_tree .
  *= require_self
  */
+/* Custom styles for the Stupid Coaching app */
+
+/* Style the h1 element */
+h1 {
+color: #333;
+font-size: 35px;
+margin-top: 20px;
+}
+
+h2 {
+color: #841616;
+font-size: 24px;
+margin-top: 20px;
+}
+
+/* Style the form container div */
+div {
+margin-top: 20px;
+}
+
+/* Style the input fields */
+input[type="text"] {
+width: 300px;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+
+/* Style the submit button */
+input[type="submit"] {
+padding: 10px 20px;
+background-color: #333;
+color: #fff;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+  
